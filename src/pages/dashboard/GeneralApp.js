@@ -1,7 +1,7 @@
 import React from 'react';
 
 const GeneralApp = () => {
-  return <>Appdfgfdrw</>;
+  return <>App</>;
 };
 
 export default GeneralApp;
